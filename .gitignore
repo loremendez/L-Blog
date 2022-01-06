@@ -13,4 +13,5 @@ package.json
 
 
 # Original posts
-_default_posts/
+_default/
+_pages/getting-started.md
