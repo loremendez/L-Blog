@@ -12,6 +12,5 @@ package.json
 .jekyll-cache
 
 
-# Original posts
-/_default/
+/default/
 /_pages/getting-started.md
