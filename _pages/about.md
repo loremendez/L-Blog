@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+I'm Lore and this is my personal blog! The purpose of my blog is to document my learning notes, specifically about Algebraic Topology and Topological Data Analysis. I am very curious about the topic! Contact me if you have any questions or find errors, thanks :D !
 
+<!---
 [Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
 This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
@@ -27,3 +29,4 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 - In-built sitemap
 
 Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+-->
