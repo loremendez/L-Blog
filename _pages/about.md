@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <img src="{{ '../images/profile_pic.PNG' | relative_url }}" width="320" height="320" />
 <p></p>
-<p>#I'm Lore and this is my personal blog! The purpose of my blog is to document my learning notes, specifically about Algebraic Topology and Topological Data Analysis. I am very curious about the topic! Contact me if you have any questions or find errors, thanks :D !</p>
+<p>I'm Lore and this is my personal blog! The purpose of my blog is to document my learning notes, specifically about Algebraic Topology and Topological Data Analysis. I am very curious about the topic! Contact me if you have any questions or find errors, thanks :D </p>
 
 
 <!---
