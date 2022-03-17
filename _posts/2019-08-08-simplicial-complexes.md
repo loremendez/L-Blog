@@ -17,6 +17,8 @@ To better understand simplices and simplicial complexes, we need some geometric 
 ![](/images/1-affine-hull.png)
 ***Figure 1:*** *Visualization of an affine hull. It looks like a translation of a vector subspace.*
 
+<img src="../images/profile_pic.PNG" alt="alt text" width="320" height="320"/>
+
 * **Affinely independent points:** a set of $k$ points is affinely independent if they do not lie in the same vectorial subspace of $k-2, k-1, \dots, 0$ dimensions. For example, $3$ points are not affinely independent if they are either the same point ($0$-dimensional) or lie in the same line ($1$-dimensional).
 
 ![](/images/1-affinely-independent.png)
