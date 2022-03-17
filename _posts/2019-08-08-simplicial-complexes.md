@@ -35,12 +35,10 @@ Additionally, $x_0,\dots,x_k\in\mathbb{R}^n$ are affinely independent iff the $k
 
 <!-- For one point would be the same point, for two points would be them and the line that joins them, For three points would be them, the line that joins them and the space in between etc. -->
 
-![very good|100x100](/images/1-convex-hull.png){width=50%}<!-- .element height="50%" width="50%" -->
+![](/images/1-convex-hull.png)
 ***Figure 4:*** *Convex hull of points in the plane.*
 
-<img src="images/1-convex-hull.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+<!-- <img src="images/1-convex-hull.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" /> -->
 
 * **Simplex:** A $k-$simplex is the convex hull of $k+1$ affinely independent points. It looks like a generalized version of a triangle. We will denote the $k-$simplex created by $x_0,\dots,x_{k+1}$ by $\Delta[x_0,\dots,x_{k+1}]$. 
 
