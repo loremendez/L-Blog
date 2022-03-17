@@ -14,10 +14,8 @@ To better understand simplices and simplicial complexes, we need some geometric 
 
 * **Affine combination and affine hull:** we can think of an affine hull as a shifted vector subspace. More formally, let $x_0,\dots,x_k\in\mathbb{R}^n$. A point $x\in\mathbb{R}^n$ is an *affine combination* of the $x_i$'s if it can be written as $x=\overset{k}{\underset{i=0}{\sum}}\lambda_ix_i$, where $\overset{k}{\underset{i=0}{\sum}}\lambda_i=1$. The set of all affine combinations of $x_0,\dots,x_k\in\mathbb{R}^n$ is known as their *affine hull*.
 
-![](/images/1-affine-hull.png)
+![](../images/1-affine-hull.png)
 ***Figure 1:*** *Visualization of an affine hull. It looks like a translation of a vector subspace.*
-
-<img src="../images/profile_pic.PNG" alt="alt text" width="320" height="320"/>
 
 * **Affinely independent points:** a set of $k$ points is affinely independent if they do not lie in the same vectorial subspace of $k-2, k-1, \dots, 0$ dimensions. For example, $3$ points are not affinely independent if they are either the same point ($0$-dimensional) or lie in the same line ($1$-dimensional).
 
