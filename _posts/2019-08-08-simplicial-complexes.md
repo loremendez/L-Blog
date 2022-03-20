@@ -67,12 +67,12 @@ So far, I tried to give an intuition of simplicial complexes and the mathematica
 
 ### **Abstract simplicial complexes**
 
-An *abstract simplicial complex* is a set of points $V$, that we will call *vertices*, and a set $R$ of non-empty subsets of $V$ that has the following properties:
+An *abstract simplicial complex* is a set of points $$V$$, that we will call *vertices*, and a set $$R$$ of non-empty subsets of $$V$$ that has the following properties:
 1. $$\{v\}\in{R}$$, for all $$v\in{V}$$
 2. If $$\sigma\in{R}$$ and $$\tau\subseteq\sigma$$, with $$\tau\neq\emptyset$$, then $$\tau\in{R}$$
 
 Additionally:
-* The elements of $R$ are called *simplices*, and if $$\sigma\in{R}$$ with $$|\sigma|=n+1$$, we say that $$\sigma$$ is a $$n-$$*simplex*.
+* The elements of $R$ are called *simplices*, and if $$\sigma\in{R}$$ with $$\abs{\sigma}=n+1$$, we say that $$\sigma$$ is a $$n-$$*simplex*.
 * If $$\sigma\in{R}$$ and $$\tau\subseteq\sigma$$, then we say that $$\tau$$ is a *face* of $$\sigma$$, and $$\sigma$$ is a *coface* of $$\tau$$.
 * We will say that a simplicial complex $$K=(V,R)$$ is *finite* if the set of vertices $$V$$ is *finite*, and it will be *locally finite* if every vertex is an element of at the most a finite number of simplices.
 
