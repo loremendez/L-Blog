@@ -4,6 +4,8 @@ title: ""
 categories: ATopology
 ---
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 # <span style="color:rgb(107,79,187)"> Simplicial Complexes </span>
 
 Simplicial complexes are a bunch of simplices put together. They are like lego constructions, where each lego piece is a simplex. Intuitively, We can think of a simplex as a generalized version of a triangle. And just like legos, there are certain ways to put the simplices together so they can form a simplicial complex.
@@ -12,7 +14,7 @@ To better understand simplices and simplicial complexes, we need some geometric 
 
 ## <span style="color:rgb(0,128,204)"> Fundamentals </span>
 
-* **Affine combination and affine hull:** we can think of an affine hull as a shifted vector subspace. More formally, let $x_0,\dots,x_k\in\mathbb{R}^n$. A point $x\in\mathbb{R}^n$ is an *affine combination* of the $x_i$'s if it can be written as $x=\overset{k}{\underset{i=0}{\sum}}\lambda_ix_i$, where $\overset{k}{\underset{i=0}{\sum}}\lambda_i=1$. The set of all affine combinations of $x_0,\dots,x_k\in\mathbb{R}^n$ is known as their *affine hull*.
+* **Affine combination and affine hull:** we can think of an affine hull as a shifted vector subspace. More formally, let $$ x_0,\dots,x_k\in\mathbb{R}^n $$. A point $x\in\mathbb{R}^n$ is an *affine combination* of the $x_i$'s if it can be written as $x=\overset{k}{\underset{i=0}{\sum}}\lambda_ix_i$, where $\overset{k}{\underset{i=0}{\sum}}\lambda_i=1$. The set of all affine combinations of $x_0,\dots,x_k\in\mathbb{R}^n$ is known as their *affine hull*.
 
 ![](../images/1-affine-hull.png)
 ***Figure 1:*** *Visualization of an affine hull. It looks like a translation of a vector subspace.*
