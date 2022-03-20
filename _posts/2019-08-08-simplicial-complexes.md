@@ -81,7 +81,7 @@ References:
 2. [Edelsbrunner, Herbert and Harer, John (2010). *Computational Topology - an Introduction*. American Mathematical Society. pp. 62-63. ISBN-978-0-8218-4925-5.](https://www.maths.ed.ac.uk/~v1ranick/papers/edelcomp.pdf)
 3. Gritzmann, Peter (2013). *Grundlagen der Mathematischen Optimierung*. Springer. ISBN-978-3-8348-2011-2.
 4. [Guzmán Sáenz, Aldo. *Análisis topológico de datos: teoría y práctica.*](https://gta.cimat.mx/sites/ATD/files/notashomologiapersistente.pdf)
-5. [PBS Infinite Series (2017). *Simplicial Complexes - Your Brain as Math Part 1 | Infinite Series.*](https://youtu.be/rlI1KOo1gp4)
+5. [PBS Infinite Series (2017). *Simplicial Complexes - Your Brain as Math Part 1 | Infinite Series.* ](https://youtu.be/rlI1KOo1gp4)
 
 ---
 
