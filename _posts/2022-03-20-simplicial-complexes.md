@@ -8,7 +8,7 @@ categories: ATopology
 
 # <span style="color:rgb(107,79,187)"> Simplicial Complexes </span>
 
-Simplicial complexes are a bunch of simplices put together. They are like lego constructions, where each lego piece is a simplex. Intuitively, We can think of a simplex as a generalized version of a triangle. And just like legos, there are certain ways to put the simplices together so they can form a simplicial complex.
+Simplicial complexes are a bunch of simplices put together. But what on earth is a simplex?!?! Well, we can think of a simplex as a generalized version of a triangle. Then, simplicial complexes are like lego constructions, where each lego piece is a simplex. And just like legos, there are certain ways to put the simplices together so they can form a simplicial complex.
 
 To better understand simplices and simplicial complexes, we need some geometric concepts beforehand.
 
